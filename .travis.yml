@@ -72,3 +72,8 @@ script:
 # After a build, send email notification with the build results
 notifications:
  email: by.root96@gmail.com
+ 
+ deploy:
+  provider:pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
