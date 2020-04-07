@@ -1,6 +1,5 @@
 # php_iSHELL
-'php_iSHELL' is a php script for control your website files 
-fireworksjack_o_lanternferris_wheelshopping_cartperforming_artsgame_dielock♦✂✏packageoutbox_trayinbox_traypaperclipwastebasket.
+'php_iSHELL' is a php script for control your website files.
 
 <div align="center">
     <!--a href="" target="_blank"-->
