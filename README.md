@@ -1,5 +1,12 @@
 # php_iSHELL
-![php_iSHELL](./Screenshot/Screenshot-1.png)
+'php_iSHELL' is a php script for control your website files 
+fireworksjack_o_lanternferris_wheelshopping_cartperforming_artsgame_dielock♦✂✏packageoutbox_trayinbox_traypaperclipwastebasket.
+
+<div align="center">
+    <!--a href="" target="_blank"-->
+        <img alt="php_iSHELL" src="./Screenshot/Screenshot-1.png">
+    <!--/a-->
+</div>
 
 ### Languages :
 * php
@@ -14,7 +21,6 @@
 
 # How to get this tool
 ```
-cd
 git clone https://github.com/byRo0t96/php_iSHELL.git
 cd php_iSHELL
 ```
@@ -31,4 +37,5 @@ cd php_iSHELL
 
 ##### Mail : by.root96@gmail.com
 
-© 2020
+## License
+Copyright (C) 2010 - 2020 [byRo0t96](https://byro0t96.github.io/)
